@@ -1,0 +1,58 @@
+body {
+	background-color: #e4f0f0;
+}
+
+.wrapper {
+
+}
+
+.content {
+	margin: 100px auto;
+	width: 320px;
+	height: 370px;
+	background-color: #fafdfd;
+}
+
+.stroke {
+	border: 1px solid #cfdede;
+}
+
+.info-block {
+	margin-top: -5px;
+	margin-left: 30px;
+	background-color: #01b3b3;
+	width: 149px;
+	height: 25px;
+	font: 12px Arial, Sans-Serif;
+	font-weight: bold;
+	text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+	line-height: 2;
+	color: #fff;
+	text-align: center;
+}
+
+
+.email-wrapper {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
